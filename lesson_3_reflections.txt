@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+When you want people to colaborate in the project or make it public.
