@@ -13,3 +13,30 @@ Repository have all the information of all states
 
 You can add or remove files to this area without acting to the all repository,
 once you are sure you make a commit and get it into the repo.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can make a commit for every file changed, in staging area you can add file by file
+
+What are some situations when branches would be helpful 
+in keeping your history organized? How would branches help?
+
+When you want to try a new idea.
+
+How do the diagrams help you visualize the branch structure?
+
+Help's me understand them better.
+
+What is the result of merging two branches together?
+ Why do we represent it in the diagram the way we do?
+ 
+Master will have all the changes done and all the commits
+It's better to undestand the changes and the parents 
+ 
+What are the pros and cons of Git’s automatic merging 
+vs. always doing merges manually? 
+
+Less work for obvious merges
+ 
+ 
+ 
